@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 <p><em>Have a Great Day !</em></p>
 
-<p><strong>PS</strong>: Don't forget to smile :D !</p>
+<p><strong>PS</strong> : Don't forget to smile :D !</p>
