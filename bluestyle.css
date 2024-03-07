@@ -9,12 +9,20 @@ body {
 
 p {
     text-align: center;
+    background-color: beige;
+    padding: 4px;
+    margin: auto;
+    width: fit-content;
 }
 
 h1 {
     text-align: center;
     color : brown;
     background-color: beige;
+}
+
+h2 {
+    text-align: center;
 }
 
 .main-title {
